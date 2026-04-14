@@ -13,14 +13,13 @@
 
 **Cybersecurity Engineer · ML Practitioner · Builder**
 
-B.Tech – Artificial Intelligence & Data Science · Erode
+B.Tech in Artificial Intelligence & Data Science · Erode
 
-- 🔐 Building real-world cybersecurity tools — threat intel, port surveillance, ML-based IDS
-- 🧠 Integrating ML into network security: SHAP explainability, drift detection, anomaly detection
-- 🚩 CTF roadmap: THM Jr Pentester → PicoCTF → HackTheBox → CTFtime.org
-- 📜 Google Cybersecurity Professional Certificate — April 2026
-- ⚡ Fun fact: I automate threats before they automate me.
-
+Developing practical cybersecurity systems: threat intelligence pipelines, port monitoring, and ML-driven intrusion detection
+Applying machine learning to network security: SHAP-based explainability, drift detection, and anomaly detection models
+Structured CTF progression: TryHackMe Jr Pentester → PicoCTF → Hack The Box → CTFtime
+Google Cybersecurity Professional Certificate — Expected April 2026
+Focused on proactive defense through automation and intelligent threat response
 <br />
 
 ### 🌐 Social Presence
@@ -29,21 +28,6 @@ B.Tech – Artificial Intelligence & Data Science · Erode
 [<img src="https://img.shields.io/badge/Instagram-d62976?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/exu_01/)
 [<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/jivi001)
 [<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />](https://leetcode.com/u/jivi001)
-
----
-
-
-
-### 💻 IDEs & Tools
-
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" />
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/pycharm.png" />
-<img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png" />
-<img height="50" src="https://img.icons8.com/officel/480/null/java-eclipse.png" />
-<img height="50" width="50" src="https://img.icons8.com/doodle/48/000000/adobe-photoshop.png" />
-<img height="50" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
-<img height="50" src="https://img.icons8.com/?size=100&id=F7REdHlg6KJX&format=png&color=000000" />
-<img height="50" src="https://img.icons8.com/?size=100&id=22813&format=png&color=000000" />
 
 ---
 
