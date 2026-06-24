@@ -39,7 +39,7 @@ Focused on proactive defense through automation and intelligent threat response
 
 ### 🧩 LeetCode Stats
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/jivi001?theme=nord&font=Fredericka%20the%20Great&ext=heatmap)
+###![LeetCode Stats](https://leetcard.jacoblin.cool/jivi001?theme=nord&font=Fredericka%20the%20Great&ext=heatmap)
 
 ---
 
